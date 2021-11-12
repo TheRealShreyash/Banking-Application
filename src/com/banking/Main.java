@@ -5,7 +5,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        BankAccount obj1 = new BankAccount("Shreya", "S9002");
+        BankAccount obj1 = new BankAccount("XYZ", "S9002");
         obj1.showMenu();
     }
 }
@@ -124,5 +124,3 @@ class BankAccount
             System.out.println("Thank you for using our services");
         }
 }
-
-// https://javahungry.blogspot.com/2019/12/java-projects-for-beginners.html
